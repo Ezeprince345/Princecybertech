@@ -6,7 +6,7 @@
   
    <hz> Certifications</hz>
   
-  - [ Google Cybersecurity] ([https://github.com/joshmadakor1/PowerShell-Integrity-FIM](https://www.coursera.org/learn/manage-security-risks/assignment)
+  - [ Google Cybersecurity] (https://www.coursera.org/learn/manage-security-risks/assignment)
   
    - <hz> Popular YouTube VideoS</hz>
 
